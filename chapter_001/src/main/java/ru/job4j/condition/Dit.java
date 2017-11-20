@@ -24,7 +24,6 @@ public class Dit {
         double result = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
         return result;
     }
-
     public static void main(String[] args) {
         Dit a = new Dit(3, 14);
         Dit b = new Dit(10, 5);
