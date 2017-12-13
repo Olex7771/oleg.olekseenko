@@ -1,5 +1,4 @@
 package ru.job4j.condition;
-
 /**
  * @author Oleg Olekseenko( olekseenkoo#gmail.com)
  * @version 1.5
